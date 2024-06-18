@@ -11,4 +11,4 @@ QuackBot dirancang untuk membantu dalam mencari dan mengumpulkan telur secara ot
 ## Komponen Utama
 
 - **Raspberry Pi**: Menggunakan Raspberry Pi sebagai otak utama untuk pengolahan data dan pengambilan keputusan berbasis AI.
-- **ESP32**: Digunakan untuk kontrol motor dan komunikasi nirkabel.
+- **ESP32**: Digunakan untuk kontrol motor, Sensor, dan Relay.
